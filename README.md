@@ -9,6 +9,13 @@
 </p>
 <!-- splarg-storefront:end -->
 
+<!-- splarg-itch-media:start -->
+<p align="center">
+  <a href="https://splarg.itch.io/venturerer-iii"><img src="docs/itch/cover.png" alt="@venturerer III cover art" width="640"></a>
+</p>
+<!-- splarg-itch-media:end -->
+
+
 **A Poker Monster Edition**
 
 @venturerer III is a browser-based roguelite/dungeon game built around poker-hand combat. Pairs, trips, straights, flushes and stronger hands drive combat; the game also includes endless descent, artifacts, boss rewards, vaults and keyboard/mouse/gamepad controls.
