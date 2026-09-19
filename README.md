@@ -4,11 +4,24 @@
 
 @venturerer III is a browser-based roguelite/dungeon game built around poker-hand combat. Pairs, trips, straights, flushes and stronger hands drive combat; the game also includes endless descent, artifacts, boss rewards, vaults and keyboard/mouse/gamepad controls.
 
-**Play the current release on itch.io:**  
-https://splarg.itch.io/venturerer-iii
+**Play on itch.io:** https://splarg.itch.io/venturerer-iii
 
 ## Repository status
 
-> **Archive warning:** the `index.html` currently in this repository is an older April 2026 snapshot. The public itch.io build was substantially updated on 5 September 2026, so this repository should **not yet be treated as the canonical current source**.
+The root `index.html` is now the current **v35** release source.
 
-The current-release source has now been verified. The next repository step is to import that exact v35 snapshot, preserve the older April build in history, and then make subsequent improvements as separate commits.
+The publisher-supplied itch.io build was preserved in `release/v35/parts/`, reassembled byte-for-byte and verified before promotion to the repository root.
+
+Verified SHA-256:
+
+`fc46acdfb5af61e1a01b915fb0e88494151cc622d7dd06febc54d47a45134591`
+
+The split archival copy remains in `release/v35/` for provenance, and the previous April 2026 root build remains recoverable through Git history.
+
+## Run locally
+
+There is no build step. Open the root `index.html` in a modern browser.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
